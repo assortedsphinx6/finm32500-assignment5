@@ -1,5 +1,6 @@
 pytest
 coverage
 pandas
-numpycoverage-badge
+numpy
+coverage-badge
 yfinance
