@@ -1,4 +1,4 @@
 pytest
 coverage
 pandas
-numpy
+numpycoverage-badge
