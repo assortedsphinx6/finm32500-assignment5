@@ -4,3 +4,4 @@ pandas
 numpy
 coverage-badge
 yfinance
+
